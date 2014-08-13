@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: Example/RDHDateComponentPicker.xcodeproj
+xcode_scheme: RDHDateComponentPicker
+xcode_sdk: iphonesimulator
