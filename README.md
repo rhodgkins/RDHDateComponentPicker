@@ -1,6 +1,6 @@
 # RDHDateComponentPicker
 
-[![CI Status](http://img.shields.io/travis/Rich Hodgkins/RDHDateComponentPicker.svg?style=flat)](https://travis-ci.org/Rich Hodgkins/RDHDateComponentPicker)
+[![CI Status](http://img.shields.io/travis/rhodgkins/RDHDateComponentPicker.svg?style=flat)](https://travis-ci.org/rhodgkins/RDHDateComponentPicker)
 [![Version](https://img.shields.io/cocoapods/v/RDHDateComponentPicker.svg?style=flat)](http://cocoadocs.org/docsets/RDHDateComponentPicker)
 [![License](https://img.shields.io/cocoapods/l/RDHDateComponentPicker.svg?style=flat)](http://cocoadocs.org/docsets/RDHDateComponentPicker)
 [![Platform](https://img.shields.io/cocoapods/p/RDHDateComponentPicker.svg?style=flat)](http://cocoadocs.org/docsets/RDHDateComponentPicker)
